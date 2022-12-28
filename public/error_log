@@ -1,0 +1,70 @@
+[16-Oct-2022 06:12:49 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:2060
+Stack trace:
+#0 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php(40): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(571): include('/home/mmedzxrm/...')
+#2 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): collect()
+#5 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#6 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#7 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(162): Illuminate\Foundation\Application->bootstrapWith()
+#8 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\Foundation\Http\Kernel->bootstrap()
+#9 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#10 /home/mmedzxrm/sarpay.mmeducare.com/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#11 {main} in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[16-Oct-2022 07:23:25 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:2060
+Stack trace:
+#0 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php(40): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(571): include('/home/mmedzxrm/...')
+#2 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): collect()
+#5 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#6 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#7 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(162): Illuminate\Foundation\Application->bootstrapWith()
+#8 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\Foundation\Http\Kernel->bootstrap()
+#9 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#10 /home/mmedzxrm/sarpay.mmeducare.com/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#11 {main} in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[16-Oct-2022 07:24:40 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:2060
+Stack trace:
+#0 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php(40): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(571): include('/home/mmedzxrm/...')
+#2 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): collect()
+#5 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#6 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#7 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(162): Illuminate\Foundation\Application->bootstrapWith()
+#8 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\Foundation\Http\Kernel->bootstrap()
+#9 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#10 /home/mmedzxrm/sarpay.mmeducare.com/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#11 {main} in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[16-Oct-2022 14:13:39 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:2060
+Stack trace:
+#0 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php(40): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(571): include('/home/mmedzxrm/...')
+#2 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): collect()
+#5 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#6 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#7 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(162): Illuminate\Foundation\Application->bootstrapWith()
+#8 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\Foundation\Http\Kernel->bootstrap()
+#9 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#10 /home/mmedzxrm/sarpay.mmeducare.com/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#11 {main} in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[17-Oct-2022 04:48:08 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:2060
+Stack trace:
+#0 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php(40): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(571): include('/home/mmedzxrm/...')
+#2 /home/mmedzxrm/sarpay.mmeducare.com/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): collect()
+#5 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#6 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#7 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(162): Illuminate\Foundation\Application->bootstrapWith()
+#8 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\Foundation\Http\Kernel->bootstrap()
+#9 /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#10 /home/mmedzxrm/sarpay.mmeducare.com/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#11 {main} in /home/mmedzxrm/sarpay.mmeducare.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
